@@ -27,8 +27,8 @@
 - As an alternative use the provided telemetry demo files.
 You can play around with Tello Vision Telemetry Lab even without a Tello!
 
-# NOTE
-## This Project is intended as a simple learning platform and it was developed as a tool for rapid prototyping and development of algorithms for the Tello Vision 1D Android App.
+## NOTE
+### This Project is intended as a simple learning platform and it was developed as a tool for rapid prototyping and development of algorithms for the Tello Vision 1D Android App.
 
 ## Telemetry Data Explanation <a class="anchor" id="data-explanation"></a>
 
@@ -88,6 +88,27 @@ Drone battery level (%).
 
 ### temp
 Drome temperature (°C).
+
+## Telemetry Data Filtering
+Displaying many minutes of telemetry data all in the same plot can be difficult to interpret.
+The key is to filter and select data to make the analysis simpler.
+It is possible to leverage Python powerful Pandas Data Analysis Library and Tello Vision Telemetry Lab data columns definition.
+For example the trackMode column classify data by the flight tracking mode active in each moment.
+Autnomous tracking mode are coded as follows:
+0 -> None, 
+1 -> Spotlight,
+2 -> Follow,
+3 -> Orbit, 
+4 -> Profile, 
+5 -> Party,
+6 -> Forward with person avoidance.
+
+So the following lines  of code:
+
+###tofFollow=(tof[trackMode==2])
+###tofOrbit=(tof[trackMode==3])
+
+select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures...
 
 
 
