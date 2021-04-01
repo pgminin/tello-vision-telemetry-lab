@@ -108,7 +108,22 @@ So the following lines  of code:
 ### tofFollow=(tof[trackMode==2])
 ### tofOrbit=(tof[trackMode==3])
 
-select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures...
+select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures.
+
+## Demo Code
+
+### Sensors Inspector
+Inspect IMU, tof, temperature, battery sensors telemetry
+
+File: 01_inspect_sensors.ipynb
+
+### Control Inspector
+Inspect person tracking control loop data telemetry
+
+File: 02_inspect_control.ipynb
+
+
+
 
 
 
