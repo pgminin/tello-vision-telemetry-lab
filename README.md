@@ -115,7 +115,7 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 ### Sensors Inspector
 Inspect IMU, tof, temperature, battery sensors telemetry
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/doc/img/sensors/battery.jpg)
 
 File: 01_inspect_sensors.ipynb
 
