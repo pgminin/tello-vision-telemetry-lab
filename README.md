@@ -18,11 +18,11 @@
 - Experiment some more
 
 ## How to download telemetry data on your PC
-- After your experimental fligth with Tello Vision 1D App:
-Stop the video live and telemetry recording using "VIDEO OFF" button. 
-Go to Statistics using "STATS" button.
-Share last flight telemetry pressing "SHARE TELEMETRY" button.
-Send an email to yourself with telemetry file as an  attachment.
-Download the attachment to your pc.
+- From Tello Vision !D App:
+1. At the end of your fligth with Tello Vision 1D App stop the video live and telemetry recording using "VIDEO OFF" button. 
+2. Go to Statistics using "STATS" button. 
+3. Share last flight telemetry pressing "SHARE TELEMETRY" button.
+4. Send an email to yourself with telemetry file as an attachment.
+5. Download the attachment to your pc.
 - As an alternative use the provided telemetry demo files.
 You can play around with Tello Vision Telemetry Lab even without a Tello!
