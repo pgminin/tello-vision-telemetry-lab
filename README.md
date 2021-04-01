@@ -105,21 +105,22 @@ Autnomous tracking mode are coded as follows:
 
 So the following lines  of code:
 
-### tofFollow=(tof[trackMode==2])
-### tofOrbit=(tof[trackMode==3])
+"tofFollow=(tof[trackMode==2])"
+"tofOrbit=(tof[trackMode==3])"
 
 select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures.
 
 ## Jupyter Notebook Demo Code
 
-### Sensors Inspector - File: 01_inspect_sensors.ipynb
-Inspect IMU, tof, temperature, battery sensors telemetry
+### Sensors Inspector 
+Description:Inspect IMU, tof, temperature, battery sensors telemetry.
+
+File: 01_inspect_sensors.ipynb
+
 
 ![Battery Figure](/doc/img/sensors/battery.jpg)
 ![Time of flight Figure](/doc/img/sensors/tof.jpg)
 
-### Control Inspector - File: 02_inspect_control.ipynb
-Inspect person tracking control loop data telemetry
 
 
 
