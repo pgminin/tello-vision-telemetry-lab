@@ -1,5 +1,7 @@
 # Tello Vision Telemetry Lab
 
+![2d motion reconstruction gif](/doc/img/2d-motion-reconstruction/210325_2dtrackfollow.gif)
+
 ## Topics of interest
 - Data Analysis and Visualization
 - Algorithm learning, coding and development
