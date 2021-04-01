@@ -106,6 +106,7 @@ Autnomous tracking mode are coded as follows:
 So the following lines  of code:
 
 *tofFollow=(tof[trackMode==2])*
+
 *tofOrbit=(tof[trackMode==3])*
 
 select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures.
