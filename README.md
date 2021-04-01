@@ -110,10 +110,12 @@ So the following lines  of code:
 
 select only Time of Flight data of the Follow Mode and the Orbit mode giving the possibility to plot them in two separate figures.
 
-## Demo Code
+## Jupyter Notebook Demo Code
 
 ### Sensors Inspector
 Inspect IMU, tof, temperature, battery sensors telemetry
+
+![GitHub Logo](/images/logo.png)
 
 File: 01_inspect_sensors.ipynb
 
