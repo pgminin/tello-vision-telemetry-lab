@@ -87,7 +87,7 @@ Drone heigth from the Time Of Flight sensor (cm).
 Drone battery level (%).
 
 ### temp
-Drome temperature (°C).
+Drone temperature (°C).
 
 ## Telemetry Data Filtering
 Displaying many minutes of telemetry data all in the same plot can be difficult to interpret.
@@ -112,17 +112,16 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 
 ## Jupyter Notebook Demo Code
 
-### Sensors Inspector
+### Sensors Inspector - File: 01_inspect_sensors.ipynb
 Inspect IMU, tof, temperature, battery sensors telemetry
 
-![GitHub Logo](/doc/img/sensors/battery.jpg)
+![Battery Figure](/doc/img/sensors/battery.jpg)
+![Time of flight Figure](/doc/img/sensors/tof.jpg)
 
-File: 01_inspect_sensors.ipynb
-
-### Control Inspector
+### Control Inspector - File: 02_inspect_control.ipynb
 Inspect person tracking control loop data telemetry
 
-File: 02_inspect_control.ipynb
+
 
 
 
