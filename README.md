@@ -125,6 +125,12 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 
 Inspect IMU, tof, temperature, battery sensors telemetry.
 
+### Control Inspector (02_inspect_control.ipynb)
+
+![Person Estimated Distance Figure](/doc/img/control/estimatedDistance.jpg)![Person Lateral Estimated Distance Figure](/doc/img/control/estimatedLateralDistance.jpg)
+
+
+Inspect person tracking control loop data telemetry.
 
 
 
