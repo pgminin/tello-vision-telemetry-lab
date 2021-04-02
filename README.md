@@ -29,6 +29,9 @@
 - As an alternative use the provided telemetry demo files.
 You can play around with Tello Vision Telemetry Lab even without a Tello!
 
+## Get the Tello Vision 1D App (it's free!)
+[Link to Tello Vision 1D app on Google Play](https://play.google.com/store/apps/details?id=com.vision.pgminin.tellovision1d) 
+
 ### NOTE
 #### This Project is intended as a simple learning platform and it was developed as a tool for rapid prototyping and development of algorithms for the Tello Vision 1D Android App.
 
