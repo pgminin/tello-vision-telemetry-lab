@@ -116,13 +116,13 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 ## Jupyter Notebook Demo Code
 
 ### Sensors Inspector 
-Description: Inspect IMU, tof, temperature, battery sensors telemetry.
-
-File: 01_inspect_sensors.ipynb
-
 
 ![Battery Figure](/doc/img/sensors/battery.jpg)
 ![Time of flight Figure](/doc/img/sensors/tof.jpg)
+
+File: 01_inspect_sensors.ipynb - Description: Inspect IMU, tof, temperature, battery sensors telemetry.
+
+
 
 
 
