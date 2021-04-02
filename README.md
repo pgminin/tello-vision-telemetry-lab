@@ -127,7 +127,7 @@ Inspect IMU, tof, temperature, battery sensors telemetry.
 
 ### Control Inspector (02_inspect_control.ipynb)
 
-![Person Estimated Distance Figure](/doc/img/control/estimatedDistance.jpg)![Person Lateral Estimated Distance Figure](/doc/img/control/estimatedLateralDistance.jpg)
+![Person Estimated Distance Figure](/doc/img/control/estimatedDistance.jpg)![Control Speed Command Uz](/doc/img/control/Uz.jpg)
 
 
 Inspect person tracking control loop data telemetry.
