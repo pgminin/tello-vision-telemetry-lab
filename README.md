@@ -4,9 +4,9 @@
 
 ## Topics of interest
 - Data Analysis and Visualization
-- Algorithm learning, coding and development
+- Algorithm learning, coding, and development
 - Sensor Fusion
-- Realtime Vision based Control
+- Realtime Vision-based Control
 - Object/Person Detection and tracking
 - 3D Person localization
 - Drone Odometry
@@ -16,15 +16,15 @@
 ## How it works
 - Experiment: fly your Tello with Tello Vision 1D Android App 
 - Download Tello Vision Telemetry as a .txt file to your PC
-- Process telemetry and learn using Python, Jupyter Notebook, Matlab or Excel
+- Process telemetry and learn using Python, Jupyter Notebook, Matlab, or Excel
 - Experiment some more
 
 ## How to download telemetry data on your PC
 - From Tello Vision 1D App:
-1. At the end of your fligth with Tello Vision 1D App stop the video live and telemetry recording using "VIDEO OFF" button. 
-2. Go to Statistics using "STATS" button. 
-3. Share last flight telemetry pressing "SHARE TELEMETRY" button.
-4. Send an email to yourself with telemetry file as an attachment.
+1. At the end of your fligths with the Tello Vision 1D App stop the video live and telemetry recording using the "VIDEO OFF" button. 
+2. Go to Statistics using the "STATS" button. 
+3. Share last flight telemetry pressing the "SHARE TELEMETRY" button.
+4. Send an email to yourself with the telemetry file as an attachment.
 5. Download the attachment to your pc.
 - As an alternative use the provided telemetry demo files.
 You can play around with Tello Vision Telemetry Lab even without a Tello!
@@ -49,7 +49,7 @@ Tracking Mode coded as follows:
 6 -> Forward with person avoidance.
 
 ### telSeqId
-Incremental number used to manually mark flight phases. Use Tello Vision 1D app button "Tel ID ++" to mark sequences of interest.
+An incremental number used to manually mark flight phases. Use the Tello Vision 1D app button "Tel ID ++" to mark sequences of interest.
 
 ### personCount
 Detected person count.
@@ -64,7 +64,7 @@ Detection center and apparent face radius for the foreground person (pixels).
 Horizontal angle error between the detected face and the center of the image (degrees)
 
 ### estimatedDistance
-3D Distance between drone and the detected face (cm).
+3D Distance between the drone and the detected face (cm).
 
 ### estimatedXPos, estimatedYPos, estimatedZPos
 estimatedDistance decomposed in the (X,Y,Z) drone frame reference (cm).
@@ -80,10 +80,10 @@ Eulerian angles from the IMU (degrees).
 ### vx, vy, vz
 Velocities from the IMU (decimeter/s).
 
-X is drone initial forward direction, Y is drone initial right direction, Z is drone down direction.
+X is drone's initial forward direction, Y is drone's initial right direction, Z is drone's down direction.
 
 ### tof
-Drone heigth from the Time Of Flight sensor (cm).
+Drone height from the Time Of Flight sensor (cm).
 
 ### batt
 Drone battery level (%).
@@ -95,8 +95,8 @@ Drone temperature (°C).
 Displaying many minutes of telemetry data all in the same plot can be difficult to interpret.
 The key is to filter and select data to make the analysis simpler.
 It is possible to leverage Python powerful Pandas Data Analysis Library and Tello Vision Telemetry Lab data columns definition.
-For example the trackMode column classify data by the flight tracking mode active in each moment.
-Autnomous tracking mode are coded as follows:
+For example, the trackMode column classifies data by the flight tracking mode active in each moment.
+Autonomous tracking modes are coded as follows:
 0 -> None, 
 1 -> Spotlight,
 2 -> Follow,
