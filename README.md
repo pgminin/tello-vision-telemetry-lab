@@ -1,6 +1,6 @@
 # Tello Vision Telemetry Lab
 
-![2d motion reconstruction gif](/doc/img/2d-motion-reconstruction/210325_2dtrackfollow.gif)
+![2d motion reconstruction gif](/doc/img/2d-motion-reconstruction/210327-2d-track-orbit)
 
 ## Topics of interest
 - Data Analysis and Visualization
