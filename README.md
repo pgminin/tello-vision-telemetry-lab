@@ -120,8 +120,9 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 
 ### Sensors Inspector 
 
-![Battery Figure](/doc/img/sensors/battery.jpg)
 ![Time of flight Figure](/doc/img/sensors/tof.jpg)
+![Battery Figure](/doc/img/sensors/battery.jpg)
+
 
 File: 01_inspect_sensors.ipynb - Description: Inspect IMU, tof, temperature, battery sensors telemetry.
 
