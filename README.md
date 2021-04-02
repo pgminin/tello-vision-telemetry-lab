@@ -120,10 +120,8 @@ select only Time of Flight data of the Follow Mode and the Orbit mode giving the
 
 ### Sensors Inspector (01_inspect_sensors.ipynb)
 
-![Time of flight Figure](/doc/img/sensors/tof.jpg)
-![Battery Figure](/doc/img/sensors/battery.jpg)
-![IMU pitch and roll Figure](/doc/img/sensors/pitch-roll.jpg)
-![IMU velocity Figure](/doc/img/sensors/vx-vy-vz-trackMode.jpg)
+![Time of flight Figure](/doc/img/sensors/tof.jpg)![Battery Figure](/doc/img/sensors/battery.jpg)
+![IMU pitch and roll Figure](/doc/img/sensors/pitch-roll.jpg)![IMU velocity Figure](/doc/img/sensors/vx-vy-vz-trackMode.jpg)
 
 Inspect IMU, tof, temperature, battery sensors telemetry.
 
