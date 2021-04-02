@@ -108,7 +108,7 @@ Autonomous tracking modes are coded as follows:
 5 -> Party,
 6 -> Forward with person avoidance.
 
-So the following lines  of code:
+The following lines  of code:
 
 *tofFollow=(tof[trackMode==2])*
 
