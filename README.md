@@ -133,7 +133,13 @@ Inspect IMU, tof, temperature, battery sensors telemetry.
 
 ![Face radius Figure](/doc/img/detection/face-radius.jpg)![Radius confidence Figure](/doc/img/detection/radius-confidence.jpg)
 
-inspect person detection telemetry.
+Inspect person detection telemetry.
+
+### 2D/3D Vision for Spotlight tracking mode (03_inspect_person_detection.ipynb)
+
+![Polar map 2D Figure](/doc/img/spotlight3d/polar-map-2d.jpg)![Polar map 3D figure](/doc/img/spotlight3d/polar-map-3d.jpg)
+
+2D/3D person localization referred to drone position (polar map).
 
 
 
