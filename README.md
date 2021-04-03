@@ -141,6 +141,12 @@ Inspect person detection telemetry.
 
 2D/3D person localization referred to drone position (polar map).
 
+### Drone IMU Odometry (05_drone_imu_odometry.ipynb)
+
+![2D odometry and camera pose figure](/doc/img/IMU-odometry/odometry-camera-pose.jpg)![3D odometry and camera pose figure](/doc/img/IMU-odometry/odometry-camera-pose-tof.jpg)
+
+IMU velocities integration using telemetry timestamp. 2D drone tracks, IMU yaw and tof heigth data fusion for camera pose and 3D tracks.
+
 
 
 
