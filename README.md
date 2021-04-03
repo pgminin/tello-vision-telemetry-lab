@@ -135,7 +135,7 @@ Inspect IMU, tof, temperature, battery sensors telemetry.
 
 Inspect person detection telemetry.
 
-### 2D/3D Vision for Spotlight tracking mode (03_inspect_person_detection.ipynb)
+### 2D/3D Vision for Spotlight tracking mode (04_spotlight_3d_vision.ipynb)
 
 ![Polar map 2D Figure](/doc/img/spotlight3d/polar-map-2d.jpg)![Polar map 3D figure](/doc/img/spotlight3d/polar-map-3d.jpg)
 
