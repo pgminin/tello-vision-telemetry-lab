@@ -149,9 +149,9 @@ IMU velocities integration using telemetry timestamp. 2D drone tracks, IMU yaw a
 
 ### 2D Motion Reconstruction (06_2d_motion_reconstruction.ipynb)
 
-![2D odometry animation](/doc/img/2d-motion-reconstruction/track-orbit-low.gif)![2d odometry and person localization figure](/doc/img/2d-motion-reconstruction/2d-motion-reconstruction-trackMode-5.jpg)
+![2D odometry animation](/doc/img/2d-motion-reconstruction/track-orbit.gif)![2d odometry and person localization figure](/doc/img/2d-motion-reconstruction/2d-motion-reconstruction-trackMode-5.jpg)
 
-2D Person Localization in Drone IMU Odometry tracks
+2D Person Localization in Drone IMU Odometry tracks.
 
 
 
