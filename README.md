@@ -2,6 +2,8 @@
 
 ![2d motion reconstruction gif](/doc/img/2d-motion-reconstruction/2d-track-orbit.gif)
 
+![3d motion reconstruction gif](/doc/img/3d-motion-detection/3d-track-orbit.gif)
+
 ## Topics of interest
 - Data Analysis and Visualization
 - Algorithm learning, coding, and development
