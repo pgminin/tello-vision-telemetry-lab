@@ -2,7 +2,7 @@
 
 ![2d motion reconstruction gif](/doc/img/2d-motion-reconstruction/2d-track-orbit.gif)
 
-![3d motion reconstruction gif](/doc/img/3d-motion-detection/3d-track-orbit.gif)
+![3d motion reconstruction gif](/doc/img/3d-motion-reconstruction/3d-track-orbit.gif)
 
 ## Topics of interest
 - Data Analysis and Visualization
@@ -157,7 +157,7 @@ IMU velocities integration using telemetry timestamp. 2D drone tracks, IMU yaw a
 
 ### 3D Motion Reconstruction (07_3d_motion_reconstruction.ipynb)
 
-![3D odometry animation](/doc/img/3d-motion-detection/3d-track-orbit.gif)
+![3D odometry animation](/doc/img/3d-motion-reconstruction/3d-track-orbit.gif)
 
 3D Person Localization in Drone IMU Odometry tracks.
 
