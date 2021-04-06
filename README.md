@@ -21,7 +21,7 @@
 - Process telemetry and learn using Python, Jupyter Notebook, Matlab, or Excel
 - Experiment some more
 
-![Tello Vision Telemetry Lab Cover Figure](/doc/img/tello-vision-telemetry-lab-cover.jpe)
+![Tello Vision Telemetry Lab Cover Figure](/doc/img/tello-vision-telemetry-lab-cover.jpg)
 
 ## How to download telemetry data on your PC
 - From Tello Vision 1D App:
